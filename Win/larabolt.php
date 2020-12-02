@@ -21,7 +21,7 @@ function help()
     echo "\n  Commands:";
     echo "\n  git <GitHub repo link> - This clones a github repo containing a Laravel\n                           project from remote Github repository and sets\n                           it in the local machine";
     echo "\n\n  Help                   - Shows this menu";
-    echo "\n\n  Version 1.1\n  Developed By Neil Kerman\n  Github Link:  https://github.com/NeilKerman/LaraBolt.git\n  A Star to this repo would be Amazing! :)\n";
+    echo "\n\n  Version 1.1\n  Developed By NeilKerman\n  Github Link:  https://github.com/NeilKerman/LaraBolt.git\n  A Star to this repo would be Amazing! :)\n";
 }
 
 function setup($argv)
@@ -199,7 +199,7 @@ function firegraphiti()
     echo "  | |__ / _` || '_|/ _` | | _ \/ _ \| ||  _|  \n";
     echo "  |____|\__,_||_|  \__,_| |___/\___/|_| \__|  \n";
     echo "                                              \n";
-    echo " ~|*.*.*.* Developed by Neil Kerman *.*.*.*|~ \n";
+    echo " ~|*.*.*.* Developed by NeilKerman *.*.*.*|~ \n";
     echo "\n";
 }
 
@@ -218,7 +218,7 @@ function sweetgraphiti()
     echo "  | |  ' `-'  |  | |        ' `-'  |  ' `-' ;  '  `-' /  | |   ' `-' ;  \n";
     echo " (___) `.__.'_. (___)       `.__.'_.   `.__.    `.__.'  (___)   `.__.   \n";
     echo "                                                                        \n";
-    echo " ~|*.*.*.*.*.*.*.*.*.*  Developed by Neil Kerman  *.*.*.*.*.*.*.*.*.*|~ \n";
+    echo " ~|*.*.*.*.*.*.*.*.*.*  Developed by NeilKerman  *.*.*.*.*.*.*.*.*.*|~ \n";
     echo "\n";
 }
 
@@ -234,7 +234,7 @@ function lilghostgraphiti()
     echo "  |     |' |  | |  ||  |\  \  |  | |  || '--'  /  '  '-'  ' |     |'   |  |    \n";
     echo "  `-----'  `--' `--'`--' '--' `--' `--'`------'    `-----'  `-----'    `--'    \n";
     echo "\n";
-    echo " ~|*.*.*.*.*.*.*.*.*.*.*.* Developed by Neil Kerman *.*.*.*.*.*.*.*.*.*.*.*|~  \n";
+    echo " ~|*.*.*.*.*.*.*.*.*.*.*.* Developed by NeilKerman *.*.*.*.*.*.*.*.*.*.*.*|~  \n";
     echo "\n";
 }
 
@@ -249,6 +249,6 @@ function wetgraphiti()
     echo "  |( __.'|_|  (_)|_| \)\|_|  (_)/( `--'  )---'  |( __.'`-'    \n";
     echo "  (_)                (__)      (__)     (_)     (_)           \n";
     echo "\n";
-    echo " ~|*.*.*.*.*.*.*  Developed by Neil Kerman  *.*.*.*.*.*.*|~   \n";
+    echo " ~|*.*.*.*.*.*.*  Developed by NeilKerman  *.*.*.*.*.*.*|~   \n";
     echo "\n";
 }
